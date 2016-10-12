@@ -4,7 +4,7 @@ $yellow:#F4B651;
 *{
   // border:solid 1px $gray;
 position:relative;
-         font-family:微軟正黑體;
+         font-family:verdana;
          font-weight:100;
          line-height: 35px;
          letter-spacing:2px;
@@ -54,10 +54,10 @@ padding:10px;
 }
 .button{
   font-size:20px;font-size:100;
-padding:7px; padding-top:5px;padding-bottom:7px;
-        margin-left:25px;
-        border-radius:100%;
-        background-color:$yellow;
+  padding:7px; padding-top:5px;padding-bottom:7px;
+  margin-left:25px;
+  border-radius:100%;
+  background-color:$yellow;
 color:$white;
       letter-spacing:4px;
       line-height: 40px;
