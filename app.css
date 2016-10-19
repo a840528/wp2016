@@ -132,7 +132,20 @@ body {
   margin-top: 20px;
   box-sizing: border-box;
 }
-
+.adobe {
+  width: 250px;
+  padding: 10px 20px;
+  color: #F2F2F2;
+  background-color: #24B1BC;
+  cursor: pointer;
+}
+.afteradobe {
+  color: #24B1BC;
+  font-weight: 1000;
+  font-size: 20px;
+  padding: 10px 20px;
+  background-color: #F2F2F2;
+}
 .adobe {
   width: 40px;
   height: 90px;
